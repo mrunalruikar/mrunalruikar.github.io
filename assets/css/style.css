@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+  margin: 2em;
+}
+
+header {
+  margin-bottom: 2em;
+  border-bottom: 1px solid #ccc;
+}
+
+h1 a {
+  text-decoration: none;
+  color: #333;
+}
